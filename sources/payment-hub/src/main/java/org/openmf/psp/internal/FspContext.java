@@ -15,7 +15,7 @@ public class FspContext {
     private FspRestClient.TenantAuth tenantAuth;
 
     public FspId getFspId() {
-        return fspId;
+        return fspId ;
     }
 
     public void setFspId(FspId fspId) {
